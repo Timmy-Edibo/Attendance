@@ -1,0 +1,5 @@
+Applications:
+  name: "Stemlab Register"
+  random_route: true
+  memory: 512M
+  disk_quota: 2GB 
